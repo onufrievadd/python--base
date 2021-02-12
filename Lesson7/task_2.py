@@ -44,4 +44,4 @@ costume = Costume(160)
 cl = Clothes
 print(coat.need_cloth)
 print(costume.need_cloth)
-print(cl.consumption)
+print(cl.consumption())
